@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\bin\Debug\netcoreapp3.1\P225GenericTypeConstraint.exe
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\bin\Debug\netcoreapp3.1\P225GenericTypeConstraint.deps.json
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\bin\Debug\netcoreapp3.1\P225GenericTypeConstraint.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\bin\Debug\netcoreapp3.1\P225GenericTypeConstraint.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\bin\Debug\netcoreapp3.1\P225GenericTypeConstraint.dll
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\bin\Debug\netcoreapp3.1\P225GenericTypeConstraint.pdb
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\obj\Debug\netcoreapp3.1\P225GenericTypeConstraint.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\obj\Debug\netcoreapp3.1\P225GenericTypeConstraint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\obj\Debug\netcoreapp3.1\P225GenericTypeConstraint.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\obj\Debug\netcoreapp3.1\P225GenericTypeConstraint.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\obj\Debug\netcoreapp3.1\P225GenericTypeConstraint.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\obj\Debug\netcoreapp3.1\P225GenericTypeConstraint.dll
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\obj\Debug\netcoreapp3.1\P225GenericTypeConstraint.pdb
+C:\Users\memme\Desktop\P225\Task\P225GenericTypeConstraint\obj\Debug\netcoreapp3.1\P225GenericTypeConstraint.genruntimeconfig.cache

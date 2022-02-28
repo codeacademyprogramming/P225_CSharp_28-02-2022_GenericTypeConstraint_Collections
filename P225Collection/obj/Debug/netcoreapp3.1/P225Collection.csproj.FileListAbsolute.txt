@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225Collection\bin\Debug\netcoreapp3.1\P225Collection.exe
+C:\Users\memme\Desktop\P225\Task\P225Collection\bin\Debug\netcoreapp3.1\P225Collection.deps.json
+C:\Users\memme\Desktop\P225\Task\P225Collection\bin\Debug\netcoreapp3.1\P225Collection.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225Collection\bin\Debug\netcoreapp3.1\P225Collection.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225Collection\bin\Debug\netcoreapp3.1\P225Collection.dll
+C:\Users\memme\Desktop\P225\Task\P225Collection\bin\Debug\netcoreapp3.1\P225Collection.pdb
+C:\Users\memme\Desktop\P225\Task\P225Collection\obj\Debug\netcoreapp3.1\P225Collection.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225Collection\obj\Debug\netcoreapp3.1\P225Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225Collection\obj\Debug\netcoreapp3.1\P225Collection.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225Collection\obj\Debug\netcoreapp3.1\P225Collection.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225Collection\obj\Debug\netcoreapp3.1\P225Collection.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225Collection\obj\Debug\netcoreapp3.1\P225Collection.dll
+C:\Users\memme\Desktop\P225\Task\P225Collection\obj\Debug\netcoreapp3.1\P225Collection.pdb
+C:\Users\memme\Desktop\P225\Task\P225Collection\obj\Debug\netcoreapp3.1\P225Collection.genruntimeconfig.cache

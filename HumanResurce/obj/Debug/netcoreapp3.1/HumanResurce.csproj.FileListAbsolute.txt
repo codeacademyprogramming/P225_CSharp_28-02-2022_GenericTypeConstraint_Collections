@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\HumanResurce\bin\Debug\netcoreapp3.1\HumanResurce.exe
+C:\Users\memme\Desktop\P225\Task\HumanResurce\bin\Debug\netcoreapp3.1\HumanResurce.deps.json
+C:\Users\memme\Desktop\P225\Task\HumanResurce\bin\Debug\netcoreapp3.1\HumanResurce.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\HumanResurce\bin\Debug\netcoreapp3.1\HumanResurce.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\HumanResurce\bin\Debug\netcoreapp3.1\HumanResurce.dll
+C:\Users\memme\Desktop\P225\Task\HumanResurce\bin\Debug\netcoreapp3.1\HumanResurce.pdb
+C:\Users\memme\Desktop\P225\Task\HumanResurce\obj\Debug\netcoreapp3.1\HumanResurce.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\HumanResurce\obj\Debug\netcoreapp3.1\HumanResurce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\HumanResurce\obj\Debug\netcoreapp3.1\HumanResurce.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\HumanResurce\obj\Debug\netcoreapp3.1\HumanResurce.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\HumanResurce\obj\Debug\netcoreapp3.1\HumanResurce.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\HumanResurce\obj\Debug\netcoreapp3.1\HumanResurce.dll
+C:\Users\memme\Desktop\P225\Task\HumanResurce\obj\Debug\netcoreapp3.1\HumanResurce.pdb
+C:\Users\memme\Desktop\P225\Task\HumanResurce\obj\Debug\netcoreapp3.1\HumanResurce.genruntimeconfig.cache
